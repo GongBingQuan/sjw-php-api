@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5039f92f-a890-48a2-a4d5-03696945c375" name="47.93.163.107" url="http://tour.designwire.com.cn">
+        <fileTransfer rootFolder="/www/wwwroot/tour.designwire.com.cn" accessType="SFTP" host="47.93.163.107" port="22" sshConfigId="c8a9844d-5e7b-4cb4-84da-55cc2553ef0e" sshConfig="root@47.93.163.107:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
